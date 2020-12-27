@@ -9,3 +9,5 @@
 файлы окончивающиеся на _override.tf.json  
 файл .terraformrc  
 файл terraform.rc  
+
+Update 2 from PyCharm
